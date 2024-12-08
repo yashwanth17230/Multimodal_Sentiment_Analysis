@@ -1,5 +1,5 @@
 streamlit==1.23.1
-SpeechRecognition
+speechrecognition==3.8.1
 tensorflow==2.3.1
 keras==2.4.3
 nltk==3.8.1
